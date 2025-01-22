@@ -14,5 +14,10 @@
 - **Problem Statement 7:** Perimeter of a Rectangle
 - **Problem Statement 8:** Power Calculation  
 - **Problem Statement 9:** Calculate Average of Three Numbers  
-- **Problem Statement 10:** Convert Kilometers to Miles  
+- **Problem Statement 10:** Convert Kilometers to Miles
+
+- ### January 22, 2025
+- Added practice problem solution for January 22, 2025.
+- The solution is uploaded as a `folders` file named `feature_22_jan_25,feature_22_jan_25[level 2]`.
+- This solution covers the practice problems assigned on this date, with detailed steps and explanations.
 
